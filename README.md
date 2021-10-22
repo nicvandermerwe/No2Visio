@@ -1,4 +1,4 @@
-| 2021 DevNet Create<br />Just Say No To Visio | ![TS30-claudiadeluna_final](images/TS30-claudiadeluna_final.jpg) |
+| 2021 DevNet Create<br />Just Say No To Visio | ![TS30-claudiadeluna_final] |
 | -------------------------------------------- | ------------------------------------------------------------ |
 
 
